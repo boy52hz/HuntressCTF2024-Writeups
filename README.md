@@ -36,8 +36,9 @@ PS. Disabled challenges are currently in progress. (Just setup the repo with inf
 
 ### Binary Exploitation
 
-| Challenge Name | Difficualty | Points |
-| Baby Buffer Overflow - 32bit | `Medium` | `147` |
+| Challenge Name               | Difficualty | Points |
+| ---------------------------- | ----------- | ------ |
+| Baby Buffer Overflow - 32bit | `Medium`    | `147`  |
 
 ### Miscellaneous
 
