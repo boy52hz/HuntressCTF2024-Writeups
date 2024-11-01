@@ -15,13 +15,13 @@ PS. Disabled challenges are currently in progress. (Just setup the repo with inf
 
 ### Web
 
-| Challenge Name | Difficualty | Points |
-| -------------- | ----------- | ------ |
-| Plantopia      | `Easy`      | `131`  |
-| Y2J            | `Easy`      | `50`   |
-| PillowFight    | `Easy`      | `338`  |
-| MOVable        | `Medium`    | `376`  |
-| Zippy          | `Medium`    | `392`  |
+| Challenge Name                  | Difficualty | Points |
+| ------------------------------- | ----------- | ------ |
+| Plantopia                       | `Easy`      | `131`  |
+| Y2J                             | `Easy`      | `50`   |
+| PillowFight                     | `Easy`      | `338`  |
+| [MOVEable](./MOVable/README.md) | `Medium`    | `376`  |
+| Zippy                           | `Medium`    | `392`  |
 
 ### Malware
 
