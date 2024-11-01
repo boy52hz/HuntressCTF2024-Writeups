@@ -16,11 +16,11 @@ First up is the easiest of the three. Go get em!
 
 Start by running the binary. It will tell you that you didn't have access to this program.
 
-![image](./images/app.png)
+![First run](./images/app.png)
 
 Next, disassemble the binary in IDA. We will see **"Access Denied!"** string in main function.
 
-![image](./images/ida.png)
+![Disassembled](./images/ida.png)
 
 From this, we can see that the program is checking for access and if it is not available, it will print **"Access Denied!"**.
 
@@ -28,11 +28,11 @@ At this point, we can try to jump to the another code block which should be trig
 
 We can do this by changing the jump condition from `JZ` to `JNZ` and then apply patches.
 
-![image](./images/ida1.png)
+![Patching](./images/ida1.png)
 
 Finally, run the patched binary and you will get the flag.
 
-![image](./images/solved.png)
+![Solved](./images/solved.png)
 
 ## Flag
 
