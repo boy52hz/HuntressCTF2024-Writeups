@@ -27,12 +27,15 @@ For this challenge, I found **2** vulnerabilities in the source code.
 
 1. **SQL Injection**  
    We can see that there is a SQL Injection vulnerability located in **login route**.
+
    ```python
     sql = f"SELECT * FROM users WHERE username='{username}' AND password='{password}'"
    ```
+
 2. **Remote Code Execution**  
    We can see that code using [pickle.load](https://docs.python.org/3/library/pickle.html) to unpack the data which is
    vulnerable to execute arbitrary code during unpacking. located in **download route**
+
    ```python
     file_blob = pickle.loads(base64.b64decode(file_data[0]))
    ```
