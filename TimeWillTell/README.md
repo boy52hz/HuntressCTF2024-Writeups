@@ -140,10 +140,10 @@ function end() {
 
 When we run the script and print response time for each guessing character, we will see that there is a character that takes more time to respond than the others.
 
-![runscript](image.png)  
+![runscript](./images/image.png)  
 And, if the time taken to compute the response is increasing as we move forward, we are on the right track.
 
-![solved](image-2.png)
+![solved](./images/image-2.png)
 
 Finally, we get our real password with flag.  
 Password: `06b0a59a` **_(Only for this session)_**
