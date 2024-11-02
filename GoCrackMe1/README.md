@@ -12,6 +12,12 @@ Welcome to the Go Dojo, gophers in training!
 Go malware is on the rise. So we need you to sharpen up those Go reverse engineering skills. We've written three simple CrackMe programs in Go to turn you into Go-binary reverse engineering ninjas!
 First up is the easiest of the three. Go get em!
 
+### Attachments
+
+[GoCrackMe1.zip](./attachments/GoCrackMe1.zip)
+
+Password: `infected`
+
 ## Solution
 
 Start by running the binary. It will tell you that you didn't have access to this program.
