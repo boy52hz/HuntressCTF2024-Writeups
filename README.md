@@ -42,10 +42,10 @@ PS. Disabled challenges are currently in progress. (Just setup the repo with inf
 
 ### Miscellaneous
 
-| Challenge Name | Difficualty | Points |
-| -------------- | ----------- | ------ |
-| Sekiro         | `Easy`      | `50`   |
-| Time Will Tell | `Medium`    | `241`  |
+| Challenge Name               | Difficualty | Points |
+| ---------------------------- | ----------- | ------ |
+| [Sekiro](./Sekiro/README.md) | `Easy`      | `50`   |
+| Time Will Tell               | `Medium`    | `241`  |
 
 ### Cryptography
 
