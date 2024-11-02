@@ -13,9 +13,7 @@ Well now you can, with our super secure app, MOVEable!
 
 Escalate your privileges and find the flag.
 
-### Attachments
-
-[app.zip](./attachments/app.zip)
+**Attachments:** [app.zip](./attachments/app.zip)
 
 ## Solution
 
