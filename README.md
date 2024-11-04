@@ -8,7 +8,7 @@ PS. Disabled challenges are currently in progress. (Just setup the repo with inf
 | ------------------------------------ | ----------- | ------ |
 | [GoCrackMe1](./GoCrackMe1/README.md) | `Easy`      | `50`   |
 | [GoCrackMe2](./GoCrackMe2/README.md) | `Easy`      | `356`  |
-| GoCrackMe3                           | `Hard`      | `105`  |
+| GoCrackMe3                           | `Hard`      | `446`  |
 | Stack It                             | `Easy`      | `205`  |
 | Knight's Quest                       | `Easy`      | `286`  |
 | RustyBin                             | `Hard`      | `482`  |
